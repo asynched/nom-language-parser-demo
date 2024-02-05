@@ -1,0 +1,10 @@
+SET name Eder
+SET age 22
+INCR age
+INCR age
+SET programmer true
+SET state SP
+GET name
+GET age
+DEL state
+FLUSH
